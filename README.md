@@ -1,4 +1,4 @@
 studygradle
 ===========
 
-studygradle hehe
+studygradle hehe 自己联系gradle使用的
